@@ -5,5 +5,5 @@
 
 ## Selenium Kullanılarak yapılanlar
 
-1. [Login Testleri]
-2. [Register Testleri]
+1. Login Testleri
+2. Register Testleri
